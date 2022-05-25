@@ -1,0 +1,45 @@
+.container{
+    text-align: center;
+    margin-top: 20px;
+    /* background-color: black; */
+    
+}
+input{
+    font-size: 24px;
+    width:277px;
+    /* height: 65px; */
+    border-radius: 8px;
+    margin-top: 5px;
+    border: 2px solid black; 
+    background-color: #ced7caba;
+    /* margin-bottom: 5px; */
+}
+table{
+    margin: auto;
+    /* background-color: blue; */
+}
+.cal{
+    text-align: center;
+    margin: auto;
+    padding: 3px;
+    background-color: #d64db7;
+    border: 3px black solid;
+    width:300px;
+    height:347px;
+    border-radius:19px;
+    display: inline-block;
+}
+/* .screen{
+    border:2px solid black;
+    width: 190px;
+    border-radius: */
+/* } */
+button{
+    font-size: 23px;
+    width:67px;
+    height:55px;
+    background-color: #9caeb7;
+    border-radius: 12px;
+    cursor: pointer;
+    margin: 1px;
+}
